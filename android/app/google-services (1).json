@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "376004221216",
+    "project_id": "meta-hub-613ab",
+    "storage_bucket": "meta-hub-613ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376004221216:android:46ad696ce25a17602cdf45",
+        "android_client_info": {
+          "package_name": "com.yourprojectname"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4-RW_g0yyD-TUt2VyyvZI-XSCfUiefCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
